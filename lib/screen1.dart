@@ -50,9 +50,10 @@ class _BuyButtonState extends State<BuyButton> with TickerProviderStateMixin {
       if (status == AnimationStatus.completed) {
         Navigator.push(
           context,
-          MaterialPageRoute(builder: (context) {
-            return Screen2();
-          }),
+          PageRouteBuilder(
+            transitionDuration: Duration(seconds: 2),
+            pageBuilder: (_, __, ___) => Screen2(),
+          ),
         );
       }
     });

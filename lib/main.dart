@@ -13,7 +13,7 @@ final TextStyle kStyle = TextStyle(
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    timeDilation = 3.0;
+    timeDilation = 1.0;
     return MaterialApp(
       title: 'Customize Hero Demo',
       home: Screen1(),
