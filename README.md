@@ -1,16 +1,9 @@
-# customize_hero_animation
+# Custom hero animation
 
-Customizing Hero Animation
+[This project is explained here](https://medium.com/@singhgursheesh12/customize-hero-animation-flutter-83f6a35c79d4)
 
-## Getting Started
+[Link to Part 2 blog](https://medium.com/@singhgursheesh12/customize-hero-animation-part-2-flutter-4a5b67ee2037)
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Completed]( screenshots/completed.gif "Completed")
